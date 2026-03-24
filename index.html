@@ -1016,6 +1016,7 @@ Be generous in tagging. Extract all relevant tags.`;
       })
     });
     const data = await resp.json();
+    console.log("Hugging Face Response:", data);
     const text = data.choices?.[0]?.message?.content || '{}';
     const clean = text.replace(/```json|```/g, '').trim();
     return JSON.parse(clean);
@@ -1090,6 +1091,7 @@ Be generous in tagging. Extract all relevant tags.`;
       })
     });
     const data = await resp.json();
+    console.log("Hugging Face Response:", data);
     const text = data.choices?.[0]?.message?.content || '{}';
     const clean = text.replace(/```json|```/g, '').trim();
     return JSON.parse(clean);
