@@ -160,7 +160,7 @@ To prevent misuse, census tracts currently within active fire perimeters are exc
 Users located in these areas are redirected to emergency services and immediate evacuation guidance rather than community coordination features.
 
 <p align="center">
-  <img src="images/fire_intersect.png" alt="fire_intersect" width="250"/>
+  <img src="images/fire_intersect.png" alt="fire_intersect" width="750"/>
 </p>
 
 
