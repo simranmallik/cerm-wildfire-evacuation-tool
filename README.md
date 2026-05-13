@@ -7,6 +7,7 @@
 
 ![CERMmatching](images/helperFullProcess.gif)
 
+** Click here to see tool:** https://riyabharath24.github.io/cerm-wildfire-evacuation-tool/
 ---
 
 ### 🔹 Route 1: Accelerating Equitable Evacuations
