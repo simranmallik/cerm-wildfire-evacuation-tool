@@ -259,5 +259,5 @@ The system has the potential to:
 | Ting-ya Chang    | EDA, geospatial joins, Research/Outreach, building solution, presentation prep |
 | Saehee Eom       | EDA, Feature engineering, modeling, building solution, presentation prep       |
 | Tanmayee Kolli   | EDA, Research/Outreach, building solution, presentation prep                   |
-| Simran Mallik    | EDA, preprocessing, Research/Outreach, building solution, presentation prep    |
+| Simran Mallik    | EDA, preprocessing, modeling, Research/Outreach, building solution, presentation prep    |
 
